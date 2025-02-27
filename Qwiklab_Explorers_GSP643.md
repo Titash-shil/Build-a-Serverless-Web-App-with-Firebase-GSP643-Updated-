@@ -22,9 +22,9 @@ Pet Theory
 - RUN COMMANDS IN NEW TERMINAL 
 
 ```bash
-curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/Build%20a%20Serverless%20Web%20App%20with%20Firebase/arcadecrewgsp643.sh
-sed -i 's/\r$//' arcadecrewgsp643.sh
-source arcadecrewgsp643.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Build-a-Serverless-Web-App-with-Firebase-GSP643-Updated-/refs/heads/main/qwiklab_explorers_gsp643.sh
+sed -i 's/\r$//' qwiklab_explorers_gsp643.sh
+source qwiklab_explorers_gsp643.sh
 ```
 - ### FOLLOW VIDEO FOR NEXT STEPS
 
