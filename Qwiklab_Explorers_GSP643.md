@@ -1,4 +1,4 @@
-# Deploy a Hugo Website with Cloud Build and Firebase Pipeline || [GSP747](https://www.cloudskillsboost.google/focuses/14353?parent=catalog) ||
+# Build a Serverless Web App with Firebase || [GSP643](https://www.cloudskillsboost.google/focuses/8391?parent=catalog) ||
 
 ## # Like, comment, share & Don't forget to subscribe [QwikLab Explorers](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
